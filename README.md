@@ -70,12 +70,14 @@ Arduino IDEで coembot.inoを読み込み、M5 Stamp S3 に焼いて、モータ
 ### M5 Stamp S3 の収納
 LEDが前になるようにM5 Stamp S3を立てて収納します。左右に詰め物を入れて、中央の位置にゆるく固定します。
 腹部にはドリルで穴を開け、中のLEDの明かりが見えるようにします。余力があれば、ホットボンドでLEDっぽく整形したかった。
+
 ![image](https://github.com/user-attachments/assets/f61f8598-6005-4895-b1f4-ddb95c1a9ec3)
 
 USB L字変換アダプタをつけて、後頭部側にUSBを向けます。
 
 ### 後頭部の加工
 オリジナルの後頭部には穴が空いていますが、取り外しが不便なので、下方に切開します。（表現がホラー）
+
 ![image](https://github.com/user-attachments/assets/8445b228-6d12-47c6-b414-878956bd7ed0)
 
 ### 手の取り付け
